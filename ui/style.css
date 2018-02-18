@@ -18,7 +18,9 @@ p{
     font-size:10px;
 }
 .container{
-    color:red;
+    padding-left:10px;
+    padding-right:10px;
+    margin:auto;
 }
 .bold {
     font-weight: bold;
