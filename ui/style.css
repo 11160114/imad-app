@@ -11,7 +11,15 @@ body {
 .text-big {
     font-size: 300%;
 }
-
+h1{
+    color:blue;
+}
+p{
+    font-size:10px;
+}
+.container{
+    color:red;
+}
 .bold {
     font-weight: bold;
 }
